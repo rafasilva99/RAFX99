@@ -26,7 +26,7 @@ Meu nome é Rafael, tenho 23 anos e atualmente moro em Belo Horizonte.
 <a href="https://instagram.com/fahel_v?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<h3>Minas habilidades são:</h3>
+<h3>Minhas habilidades são:</h3>
 <p><strong>Front 📲👩🏽‍💻</strong></p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
