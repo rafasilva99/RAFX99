@@ -30,7 +30,7 @@ Meu nome é Rafael, tenho 23 anos e atualmente moro em Belo Horizonte.
 <h3>Minhas habilidades são:</h3>
 <p><strong>Front 📲👩🏽‍💻</strong></p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript, react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript, c#)](https://skillicons.dev)
 
 
 
