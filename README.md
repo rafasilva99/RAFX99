@@ -36,9 +36,9 @@ Meu nome é Rafael, tenho 24 anos e atualmente moro em Belo Horizonte.
 
 <h3>Estatísticas e Linguagens:</h3>
 
-![RAFX99 GitHub stats](https://github-readme-stats.vercel.app/api?username=RAFX99&show_icons=true&theme=algolia)
+![RAFX99 GitHub stats](https://github-readme-stats.vercel.app/api?username=rafasilva99&show_icons=true&theme=algolia)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RAFX99&layout=compact&theme=react)](https://github.com/RAFX99/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafasilva99&layout=compact&theme=react)](https://github.com/RAFX99/github-readme-stats)
 </ul>
 
 
