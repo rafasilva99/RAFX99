@@ -9,7 +9,6 @@ Meu nome é Rafael, tenho 24 anos e atualmente moro em Belo Horizonte.
 <li>Cursando Sistemas de informações;</li>
 <li>Atualmente estudo Desenvolvimento Web;</li>
 <li>Desenvolvedor AppSheet;</li>
-<li>Gosto de aprender sempre mais;</li>
 </ul>
 
 <p></p>
